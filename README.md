@@ -1,7 +1,7 @@
-Paycoin Core integration/staging tree
+Azteca Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/PaycoinFoundation/paycoin.svg?branch=master)](https://travis-ci.org/PaycoinFoundation/paycoin)
+[![Build Status](https://travis-ci.org/aztecaFoundation/azteca.svg?branch=master)](https://travis-ci.org/aztecaFoundation/azteca)
 
 https://www.azteca.com
 
