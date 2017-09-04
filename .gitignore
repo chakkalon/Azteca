@@ -1,5 +1,5 @@
-src/paycoind
-src/test_paycoin
+src/azteca
+src/test_azteca
 
 # Ignore build dir
 build/
@@ -7,7 +7,7 @@ build/
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-paycoin-qt
+azteca-qt
 
 # Resources cpp
 qrc_*.cpp
